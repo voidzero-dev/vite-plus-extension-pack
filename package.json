@@ -1,0 +1,36 @@
+{
+  "name": "vite-plus-extension-pack",
+  "displayName": "Vite Plus Extension Pack",
+  "description": "VSCode extensions that work with Vite+",
+  "version": "0.0.1",
+  "publisher": "VoidZero",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#333333",
+    "theme": "dark"
+  },
+  "keywords": [
+    "vite+",
+    "vite",
+    "vitest",
+    "oxc"
+  ],
+  "categories": [
+    "Extension Packs"
+  ],
+  "repository": {
+    "url": "https://github.com/voidzero-dev/vite-plus-extension-pack"
+  },
+  "homepage": "https://github.com/voidzero-dev/vite-plus-extension-pack",
+  "bugs": {
+    "url": "https://github.com/voidzero-dev/vite-plus-extension-pack/issues"
+  },
+  "extensionPack": [
+    "antfu.vite",
+    "vitest.explorer",
+    "oxc.oxc-vscode"
+  ]
+}
