@@ -1,9 +1,9 @@
 {
   "name": "vite-plus-extension-pack",
   "displayName": "Vite Plus Extension Pack",
-  "description": "VSCode extensions that work with Vite+",
+  "description": "Extensions that work with Vite+",
   "version": "0.0.2",
-  "publisher": "VoidZero",
+  "publisher": "void-zero",
   "engines": {
     "vscode": "^1.93.0"
   },
